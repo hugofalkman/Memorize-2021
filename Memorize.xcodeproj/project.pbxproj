@@ -56,10 +56,10 @@
 		B15A9DE82662E76A009725C2 /* Memorize */ = {
 			isa = PBXGroup;
 			children = (
-				B15A9DE92662E76A009725C2 /* MemorizeApp.swift */,
-				B15A9DEB2662E76A009725C2 /* ContentView.swift */,
 				B1050CA62665324600C4DE9D /* MemoryGame.swift */,
 				B1050CA8266536D300C4DE9D /* EmojiMemoryGame.swift */,
+				B15A9DEB2662E76A009725C2 /* ContentView.swift */,
+				B15A9DE92662E76A009725C2 /* MemorizeApp.swift */,
 				B15A9DED2662E76E009725C2 /* Assets.xcassets */,
 				B15A9DF22662E76E009725C2 /* Info.plist */,
 				B15A9DEF2662E76E009725C2 /* Preview Content */,
